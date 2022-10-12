@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iweavings
+- 👀 I’m interested in programming and integrating generative art to my business. But mainly for fun.
+- 🌱 I’m currently learning Augmented Reality
+- 💞️ I’m looking to collaborate in creating simple apps for art teachers
+- 📫 You can reach me on Twitter @CordeiroTextile
