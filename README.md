@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iweavings
-- 👀 I’m interested in programming and integrative generative art
+- 👀 I’m interested in generative art
 - 📫 You can reach me on Twitter @CordeiroTextile
